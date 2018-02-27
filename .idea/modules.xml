@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mappergenerator.iml" filepath="$PROJECT_DIR$/mappergenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mappergenerator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mappergenerator_main.iml" group="mappergenerator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mappergenerator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mappergenerator_test.iml" group="mappergenerator" />
+    </modules>
+  </component>
+</project>
